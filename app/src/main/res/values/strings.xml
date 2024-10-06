@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Date Prime</string>
+    <string name="content_description_user_image">User Image</string>
+    <string name="label_first_name">Имя</string>
+    <string name="label_last_name">Фамилия</string>
+    <string name="label_phone_number">Номер телефона</string>
+    <string name="label_age">Возраст</string>
+    <string name="label_days_until_birthday">Дни до дня рождения</string>
+    <string name="label_months_until_birthday">Месяцы до дня рождения</string>
+    <string name="button_exit">Выход</string>
+
+</resources>

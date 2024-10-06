@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="layout_margin_bottom">16dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+</resources>
